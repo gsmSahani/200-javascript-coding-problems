@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- create a button that dynamically and add it to the webpage -->
+    <div id="addbtn"></div>
+    <script>
+        let addbtn = document.getElementById("addbtn") //here we are selecting the place where we want to add the button
+        let button = document.createElement('Button') //here we are making one html element by the help of createElement
+        button.textContent = "Add Button" //here we are adding the text inside the button with the help of textContnet
+
+        addbtn.appendChild(button)//here we are adding the button html element inside the addbtn container with the help of appendChild
+
+    </script>
+</body>
+
+</html>
