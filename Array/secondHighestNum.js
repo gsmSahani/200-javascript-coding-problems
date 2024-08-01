@@ -2,7 +2,8 @@
 // array of numbers.
 function secondHighest(num) {
   const sortedNum = num.sort((a, b) => b - a);
-  return sortedNum[0];
+  // return sortedNum[0]; //for highest number
+  return sortedNum[1]; //second highest number
 }
 const numbers = [10, 80, 90, 12, 54, 85, 100];
 console.log(secondHighest(numbers));
