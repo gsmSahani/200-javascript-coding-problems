@@ -2,7 +2,13 @@
 
 const sentence = "My name is Gautam";
 function reverseSent(sentence) {
-  let reversedSent = sentence.split('').reverse().join('').split(' ').reverse().join(' ');
+  let reversedSent = sentence
+    .split("")
+    .reverse()
+    .join("")
+    .split(" ")
+    .reverse()
+    .join(" ");
 
   return reversedSent;
 }
