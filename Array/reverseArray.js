@@ -8,6 +8,7 @@
 // Approach 5: Using a while loop
 // Approach 6: Using the reduce() method
 // Approach 7: Using a for loop
+// Approach 8: using join split reverse join and map method
 
 const originalArray = [1, 2, 3, 4, 5, 6];
 
@@ -51,8 +52,21 @@ const originalArray = [1, 2, 3, 4, 5, 6];
 // console.log(reversedArray);
 
 // Approach 7 for loop
-const reversedArray = [];
-for (let i = originalArray.length - 1; i >= 0; i--) {
-  reversedArray.push(originalArray[i]);
-}
-console.log(reversedArray);
+// const reversedArray = [];
+// for (let i = originalArray.length - 1; i >= 0; i--) {
+//   reversedArray.push(originalArray[i]);
+// }
+// console.log(reversedArray);
+
+// Approach 8
+// String based reversal method
+
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const result = arr
+  .join("")
+  .split("")
+  .reverse("")
+  .join("")
+  .split("")
+  .map(Number);
+console.log(result);
