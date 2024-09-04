@@ -1,4 +1,4 @@
-// push()
+// push() - add element from the end of the array
 // const arr = [10,20,30,40,50]
 // const pushed = arr.push(60)
 // console.log(pushed)
@@ -7,7 +7,7 @@
 // add one or more element at the end of the array
 // [ 10, 20, 30, 40, 50, 60 ]
 
-// pop()
+// pop() - remove the element from the last or end
 const arr = [10, 20, 30, 40, 50];
 let poped = arr.pop(0);
 console.log(poped);
