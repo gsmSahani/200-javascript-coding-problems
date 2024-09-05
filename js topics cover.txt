@@ -1,0 +1,61 @@
+1. JavaScript Engine
+2. Call Stack and Memory Heap
+3. Garbage Collection
+4. Memory Leaks
+5. Execution Context
+6. Lexical Environment
+7. Hoisting
+8. Scope Chain
+9. Global Variables
+10. IIFE's (Immediately Invoked Function Expressions)
+11. `this` keyword
+12. Call, Apply, Bind
+13. Bind and Currying (Most Important)
+14. Context vs Scope
+15. JavaScript Data Types
+16. Pass By Reference vs Pass By Value
+17. Pro JS Tricks
+18. Functions are First-Class Citizens
+19. Higher-Order Functions
+20. Closures
+21. Prototypical Inheritance
+22. Object-Oriented Programming (Most Important)
+23. Functional Programming
+24. Currying
+25. Memoization
+26. Composition and Pipe
+27. Composition vs Inheritance
+28. OOP (Object-Oriented Programming) vs FP (Functional Programming)
+29. 5 Must-Know JS Features
+30. 7 JavaScript Powerful Optimization Tricks You Need
+31. JS Array Methods
+32. Bad Ways to Write JS
+33. JS Operators
+34. Useful JS Topics
+35. Arrow Function vs Regular Functions
+36. Async-Await
+37. Deep Copy and Shallow Copy
+38. DOM Manipulation
+39. DOM Traversal
+40. Dynamic Module Imports
+41. Enter Strict Mode
+42. EP2 & EP3 (Using Functions to Create Objects)
+43. EP5 (Understanding Class and Constructor)
+44. EP6 (Using `Object.setPrototype`)
+45. ES6 Modules
+46. Event Listeners
+47. `fetchApi`
+48. In-Depth Comparison of Map Objects vs General Objects
+49. JSON Notes
+50. localStorage, sessionStorage, Cookies
+51. Memoize
+52. Memory Leaks in JavaScript and How to Prevent Them
+53. Node vs Element
+54. Optimizing Your Loops
+55. Promises (UG)
+56. Pure Functions (UG)
+57. Recursion
+58. Type Coercion
+59. `var`, `let`, `const`
+60. Why You Should Use Map over a Plain Object
+61. Asynchronous Programming
