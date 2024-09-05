@@ -1,0 +1,156 @@
+1. Write a program to find the maximum number in an array.
+2. Write a JS function that takes an array of numbers and returns a new array with only even numbers.
+3. Write a program to find the largest element in a nested array.
+4. Write a program to flatten an array.
+5. Write a JS program to find the second-highest number in an array.
+6. Write a JS program to reverse an array.
+7. Write a JS program to sum all numbers, odd numbers, even numbers, prime numbers, and positive numbers from an array.
+8. Write a program to remove duplicates from an array using different methods.
+9. Write a JS program to clone an array.
+10. Write a JS program to make a duplicate of an array.
+11. Write a program to remove duplicate elements from an array and find the count using Set objects.
+12. Write a program to find the minimum value in an array.
+13. Write a program to check if the array number is a palindrome or not.
+14. Write a program to return the sum of positive numbers in an array.
+15. Write a program to find the longest word in a given sentence.
+16. Write a program to reverse an array without using built-in methods.
+17. Write a JS program to check if a given string is a palindrome or not.
+18. Write a JS program to reverse a given string.
+19. Write a function to remove vowels from a string.
+20. Write a program to capitalize the first letter of each word in a string (convert to title case).
+21. Write a JS function to count the occurrences of each character in a string.
+22. Write a program to check if a string is an anagram.
+23. Write a function to reverse only long words in a string.
+24. Write a function to reverse specific words in a string.
+25. Write a program to reverse the words in a sentence without reversing the individual characters.
+26. Write a program to sort a string in alphabetical order.
+27. Write a program to convert a string to an array.
+28. Write a JS program to check if a string is a palindrome or not.
+29. Write a program to remove duplicate characters from a string.
+30. Write a JS program to reverse a string without reversing individual words.
+31. Write a function to calculate the sum of two numbers.
+32. Write a function to check if a number is prime or not.
+33. Write a program to calculate the Fibonacci sequence up to a given number of terms.
+34. Write a program to find the factorial of a given number.
+35. Write a JS program to generate a random number.
+36. Write a program to find the sum of two numbers without using the `+` operator.
+37. Write a JS program to swap two numbers with and without using a third variable.
+38. Write a JS function to check if a number is odd or even.
+39. Write a program to find the area of a rectangle, square, triangle, circle, cube, cuboid, and sphere.
+40. Write a program to find the perimeter of a rectangle, square, and triangle.
+41. Write a program to find the volume of a sphere, cuboid, and cube.
+42. Write a program to find the circumference and diameter of a circle.
+43. Write a program to find the HCF (Highest Common Factor) and LCM (Lowest Common Multiple) of two numbers.
+44. Write a program to print the multiplication table up to 20.
+45. Write a program to check if a number is an Armstrong number.
+46. Write a program to check if a given year is a leap year or not.
+47. Write a program to calculate the sum without using an arithmetic operator.
+48. Write a JS program to generate a random hexadecimal color code.
+49. Write a function to find odd/even numbers using a higher-order function.
+50. Write a JS program to find the largest nested array element using a higher-order function.
+51. Write a function to filter even numbers using `filter`.
+52. Use `find` and `findIndex` methods to find a number in an array.
+53. Use `forEach`, `map`, `filter`, and `reduce` methods for array operations.
+54. Write a program to pop and push elements in an array.
+55. Write a program to shift and unshift elements in an array.
+56. Use `slice` and `splice` to modify an array.
+57. Write a function to return odd/even arrays of numbers.
+58. Write a program to get the current date and time.
+59. Write a program to check if an object exists.
+60. Write a program to remove a specific object from an array of objects.
+61. Write a program to check the data type of a variable.
+62. Write a program to check if the return data type is correct.
+63. Write a JS generator function.
+64. Write a program to generate a random hexadecimal color code.
+65. Write a program to destructure an object or array.
+66. Write a JavaScript program to add only the numbers from an array with different values.
+67. Write a JavaScript program for temperature conversion.
+68. How to check the data type of a number in JavaScript?
+69. How to clone an array in JavaScript?
+70. How to empty an array in JavaScript?
+71. How to flatten an array in JavaScript?
+72. Write a JavaScript function to generate a random hexadecimal color code.
+73. Write a function to find odd/even numbers using higher-order functions.
+74. Write a JavaScript program to find the largest element in a nested array (using simple and higher-order functions).
+75. How to make a duplicate of an array in JavaScript?
+76. Write a JavaScript program to find the maximum number in an array.
+77. Write a JavaScript program to check if the array number is a palindrome or not.
+78. Write a JavaScript program to remove duplicates from an array using all methods.
+79. Write a JavaScript program to reverse an array.
+80. Write a JavaScript program to find the second highest number in an array.
+81. Write a JavaScript program to sum all numbers, odd numbers, even numbers, prime numbers, and positive numbers from an array.
+82. Use the `find` and `findIndex` methods in JavaScript.
+83. Write a JavaScript program using `forEach` method.
+84. Write a JavaScript program using `map`, `filter`, and `reduce` methods.
+85. Write a JavaScript program to use `pop` and `push` methods on an array.
+86. Write a JavaScript program to use `shift` and `unshift` methods on an array.
+87. Write a JavaScript program to use `slice` and `splice` methods on an array.
+88. Write a JavaScript function to add two numbers.
+89. Write a JavaScript function to check if a string is an anagram.
+90. Write a JavaScript program to find the area of a rectangle, square, triangle, circle, cube, cuboid, and sphere.
+91. Write a JavaScript program to find the perimeter of a rectangle, square, and triangle.
+92. Write a JavaScript program to find the volume of a sphere, cuboid, and cube.
+93. Write a JavaScript program to find the circumference and diameter of a circle.
+94. Write a JavaScript program to get the current date and time.
+95. Write a JavaScript function to find the factorial of a given number.
+96. Write a JavaScript function to generate the Fibonacci sequence up to a given number of terms.
+97. Write a JavaScript program to generate a random number.
+98. Write a JavaScript program to check if a year is a leap year.
+99. Write a JavaScript function to check if a number is odd or even.
+100. Write a JavaScript function to check if a number is prime.
+101. Write a JavaScript program to print the multiplication table up to 20.
+102. Write a JavaScript function for factorial using recursion.
+103. Write a JavaScript program to check the return data type.
+104. Write a JavaScript function to calculate the sum without using the assignment operator.
+105. Write a JavaScript function to swap two numbers with and without using a third variable.
+106. Write a JavaScript program to use destructuring.
+107. Write a JavaScript program to check if an object exists.
+108. Write a JavaScript program to remove a specific object from an array of objects.
+109. Write a JavaScript program to capitalize a string.
+110. Write a JavaScript function to remove duplicate characters from a string.
+111. Write a JavaScript function to remove vowels from a string.
+112. Write a JavaScript function to reverse only long words in a string.
+113. Write a JavaScript function to reverse specific words in a string.
+114. Write a JavaScript function to reverse a string.
+115. Write a JavaScript function to reverse words in a sentence.
+116. Write a JavaScript function to sort a string in alphabetical order.
+117. Write a JavaScript function to check the occurrence of each letter in a string.
+118. Write a JavaScript function to check if a string is a palindrome.
+119. Write a JavaScript function to convert a string to an array.
+120. Write a JavaScript function to find the longest word in a given sentence.
+121. Write a JavaScript function to remove duplicates from an array.
+122. Write a JavaScript function to reverse a string without using built-in methods.
+123. Write a JavaScript function to check if a string is a palindrome.
+124. Write a JavaScript function to check if a string is an anagram.
+125. Write a JavaScript function to find the maximum number in an array.
+126. Write a JavaScript function to count the occurrences of each character in a string.
+127. Write a JavaScript function to check if a number is prime.
+Sure, here’s a list of questions numbered starting from 127:
+
+127. Find the maximum count of consecutive 1s in an array.
+
+128. Given two arrays that are sorted, merge them and sort the result. For example, merge [0,3,4,31] and [4,6,30] to get [0,3,4,4,6,30,31].
+
+129. Create a function which will accept two arrays, `arr1` and `arr2`. The function should return true if every value in `arr1` has its corresponding value squared in `arr2`. The frequency of values must be the same.
+
+130. Given two strings, determine if one string can be formed by rearranging the letters of the other string.
+
+131. Write logic to get unique objects from the following array:
+
+    Input: `[{name: "sai"},{name: "Nang"},{name: "sai"},{name: "Nang"},{name: "111111"}]`
+
+    Output: `[{name: "sai"},{name: "Nang"},{name: "111111"}]`
+
+132. Write a JavaScript function that takes an array of numbers and returns a new array with only the even numbers.
+
+133. Write a JavaScript program to find the largest element in a nested array. For example, given `[[3, 4, 58], [709, 8, 9, [10, 11]], [111, 2]]`.
+
+134. Write a JavaScript function that returns the Fibonacci sequence up to a given number of terms.
+
+135. Write a JavaScript function that sorts an array of numbers in ascending order.
+
+136. Write a JavaScript function that sorts an array of numbers in descending order.
+
+137. Write a JavaScript function that reverses the order of words in a sentence without using the built-in `reverse()` method.
+
+138. Implement a JavaScript function that flattens a nested array into a single-dimensional array.
